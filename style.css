@@ -15,12 +15,12 @@ body {
     display: flex;
     justify-content: space-between;    
     align-items: center;
-    padding-right: 150px;
+    padding-right: 180px;
     margin-right: auto
     }
 
 .left-links {
-    padding-left: 150px;
+    padding-left: 180px;
     margin-left: autopx;
     color: #f9faf8;
 }
